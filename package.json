@@ -3,6 +3,10 @@
   "displayName": "vertical displays character limit",
   "description": "splits lines longer than x characters into multiple lines",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicolardi/vscode-vertical-displays-character-limit.git"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
